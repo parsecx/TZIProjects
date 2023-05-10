@@ -1,0 +1,12 @@
+C:\Users\Иван\source\repos\TZI\bin\Debug\TZI.exe.config
+C:\Users\Иван\source\repos\TZI\bin\Debug\TZI.exe
+C:\Users\Иван\source\repos\TZI\bin\Debug\TZI.pdb
+C:\Users\Иван\source\repos\TZI\obj\Debug\TZI.csproj.AssemblyReference.cache
+C:\Users\Иван\source\repos\TZI\obj\Debug\TZI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Иван\source\repos\TZI\obj\Debug\TZI.Form1.resources
+C:\Users\Иван\source\repos\TZI\obj\Debug\TZI.Properties.Resources.resources
+C:\Users\Иван\source\repos\TZI\obj\Debug\TZI.csproj.GenerateResource.cache
+C:\Users\Иван\source\repos\TZI\obj\Debug\TZI.csproj.CoreCompileInputs.cache
+C:\Users\Иван\source\repos\TZI\obj\Debug\TZI.exe
+C:\Users\Иван\source\repos\TZI\obj\Debug\TZI.pdb
+C:\Users\Иван\source\repos\TZI\bin\Debug\TZI.xml
